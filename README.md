@@ -9,6 +9,7 @@ This repository contains configuration files (dotfiles) to set up a streamlined,
     - **Themes**: MoeDark
     - **Icons**: Kora
     - **Cursor**: Afterglow-cursors
+	- **Cursor**: WhiteSur-Dark
 
 ## Installation
 #### 1. Clone the Repository
